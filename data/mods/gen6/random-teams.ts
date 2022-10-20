@@ -1341,6 +1341,30 @@ export class RandomGen6Teams extends RandomGen7Teams {
 
 		return pokemon;
 	}
+
+	// VGC Battle Factory Sets
+	randomVGCFactorySets: AnyObject = require('./vgc-factory-sets.json');
+
+	randomVGCFactoryTeam(
+		side: PlayerOptions
+	): RandomTeamsTypes.RandomFactorySet[]{
+
+		let formats = this.randomVGCFactorySets;
+
+		if (!this.factoryTier) {
+			this.factoryTier = this.sample(Object.keys(formats));
+
+			console.log(`Format selected: ${this.factoryTier}`)
+		}
+		else // Format already selected
+		{
+			console.log(`Using pre-selected format: ${this.factoryTier}`);
+		}
+			
+		return this.randomMetaFactoryTeam(
+			side, formats[this.factoryTier]
+		);
+	}
 }
 
 export default RandomGen6Teams;

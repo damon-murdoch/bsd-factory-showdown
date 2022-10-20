@@ -3352,6 +3352,16 @@ export const Formats: FormatList = [
 		banlist: ['Soul Dew'],
 	},
 	{
+		name: "[Gen 6] VGC Factory",
+		desc: `Randomized teams of Pok&eacute;mon for a generated Smogon tier with sets that are competitively viable.`,
+
+		mod: 'gen6',
+		gameType: 'doubles',
+		team: 'randomVGCFactory',
+		searchShow: false,
+		ruleset: ['Flat Rules'],
+	},
+	{
 		name: "[Gen 6] Doubles Custom Game",
 
 		mod: 'gen6',

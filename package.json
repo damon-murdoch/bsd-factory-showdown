@@ -4,8 +4,9 @@
   "version": "0.11.7",
   "main": ".sim-dist/index.js",
   "dependencies": {
-    "@types/pg": "^8.6.1",
     "@swc/core": "1.2.205",
+    "@types/pg": "^8.6.1",
+    "nodemon": "^2.0.20",
     "preact": "^10.5.15",
     "preact-render-to-string": "^5.1.19",
     "probe-image-size": "^5.0.0",

@@ -1,0 +1,225 @@
+{
+  "vgc2014": {
+    "talonflame": {
+      "usage": 10, 
+      "sets": [
+        {
+          "species": "Talonflame", 
+          "gigantamax": false, 
+          "item": ["Life Orb", "Sky Plate"], 
+          "ability": ["Gale Wings"], 
+          "evs": {"atk": 252, "def": 76, "spe": 180 }, 
+          "nature": "Adamant", 
+          "moves": [
+            ["Brave Bird"], ["Flare Blitz"], ["Tailwind"],
+            ["Protect", "Taunt", "Quick Guard", "Will-o-Wisp"]
+          ]
+        },
+        {
+          "species": "Talonflame", 
+          "gigantamax": false, 
+          "item": ["Choice Band"], 
+          "ability": ["Gale Wings"], 
+          "evs": {"hp": 4, "atk": 252, "spe": 252 }, 
+          "nature": "Adamant", 
+          "moves": [
+            ["Brave Bird"], ["Flare Blitz"], ["U-turn"], 
+            ["Tailwind", "Me First", "Aerial Ace"]
+          ]
+        }
+      ]
+    }, 
+    "aegislash": {
+      "usage": 10, 
+      "sets": [
+        {
+          "species": "Aegislash", 
+          "gigantamax": false, 
+          "item": ["Spooky Plate", "Weakness Policy"], 
+          "ability": ["Stance Change"], 
+          "evs": {"hp": 236, "spa": 172, "spd": 100}, 
+          "nature": "Modest", 
+          "moves": [
+            ["King's Shield"], ["Shadow Ball"], ["Flash Cannon"], 
+            ["Shadow Sneak", "Wide Guard"]
+          ]
+        }, 
+        {
+          "species": "Aegislash", 
+          "gigantamax": false, 
+          "item": ["Leftovers"], 
+          "ability": ["Stance Change"], 
+          "evs": {"hp": 204, "spa": 236, "spe": 68}, 
+          "nature": "Modest", 
+          "moves": [
+            ["King's Shield"], ["Shadow Ball"], ["Flash Cannon"], ["Substitute"]
+          ]
+        }
+      ]
+    }, 
+    "tyranitar": {
+      "usage": 10, 
+      "sets": [
+        {
+          "species": "Tyranitar", 
+          "gigantamax": false, 
+          "item": ["Choice Scarf"], 
+          "ability": ["Sand Stream"], 
+          "evs": {"hp": 4, "atk": 252, "spe": 252}, 
+          "nature": "Jolly", 
+          "moves": [
+            ["Rock Slide"], ["Crunch"], ["Ice Punch"], 
+            ["Low Kick", "Superpower"]
+          ]
+        }, 
+        {
+          "species": "Tyranitar", 
+          "gigantamax": false, 
+          "item": ["Tyranitarite"], 
+          "ability": ["Sand Stream"], 
+          "evs": {"hp": 4, "atk": 252, "spe": 252}, 
+          "nature": "Jolly", 
+          "moves": [
+            ["Protect"], 
+            ["Dragon Dance"], 
+            ["Rock Slide"], 
+            ["Crunch"]
+          ]
+        }
+      ]
+    }, 
+    "amoonguss": {
+      "usage": 10, 
+      "sets": [
+        {
+          "species": "Amoonguss", 
+          "gigantamax": false, 
+          "item": ["Sitrus Berry", "Rocky Helmet"], 
+          "ability": ["Regenerator"], 
+          "evs": {"hp": 244, "def": 156, "spd": 108}, 
+          "ivs": {"spe": 0}, 
+          "nature": "Relaxed", 
+          "moves": [
+            ["Protect"],
+            ["Rage Powder"],
+            ["Spore"],
+            ["Sludge Bomb", "Giga Drain"]
+          ]
+        }, 
+        {
+          "species": "Amoonguss", 
+          "gigantamax": false, 
+          "item": ["Sitrus Berry", "Rocky Helmet"], 
+          "ability": ["Regenerator"], 
+          "evs": {"hp": 236, "def": 100, "spd": 172}, 
+          "ivs": {"spe": 0}, 
+          "nature": "Sassy", 
+          "moves": [
+            ["Protect"],
+            ["Rage Powder"],
+            ["Spore"],
+            ["Sludge Bomb", "Giga Drain"]
+          ]
+        }
+      ]
+    }, 
+    "garchomp": {
+      "usage": 10, 
+      "sets": [
+        {
+          "species": "Garchomp", 
+          "gigantamax": false, 
+          "item": [
+            "Life Orb", "Lum Berry", "Yache Berry"
+          ], 
+          "ability": ["Rough Skin"], 
+          "evs": {"hp": 4, "atk": 252, "spe": 252},  
+          "nature": "Jolly", 
+          "moves": [
+            ["Protect"], ["Earthquake"], ["Dragon Claw"],
+            ["Rock Slide", "Substitute"]
+          ]
+        }, 
+        {
+          "species": "Garchomp", 
+          "gigantamax": false, 
+          "item": [
+            "Life Orb", "Lum Berry", "Yache Berry", "Rocky Helmet"
+          ], 
+          "ability": ["Rough Skin"], 
+          "evs": {
+            "hp": 124, "atk": 164, "def": 84, "spd": 4, "spe": 132
+          },  
+          "nature": "Adamant", 
+          "moves": [
+            ["Protect"], ["Earthquake"], ["Dragon Claw"],
+            ["Rock Slide", "Substitute"]
+          ]
+        }
+      ]
+    }, 
+    "gardevoir": {
+      "usage": 9, 
+      "sets": [
+        {
+          "species": "Gardevoir", 
+          "gigantamax": false, 
+          "item": [
+            "Gardevoirite"
+          ], 
+          "ability": ["Trace"], 
+          "evs": {
+            "hp": 148, "def": 60, "spa": 252, "spd": 4, "spe": 44
+          },  
+          "nature": "Modest", 
+          "moves": [
+            ["Protect"], ["Trick Room"], ["Hyper Voice"],
+            ["Psychic", "Psyshock"]
+          ]
+        }, 
+        {
+          "species": "Gardevoir", 
+          "gigantamax": false, 
+          "item": [
+            "Gardevoirite"
+          ], 
+          "ability": ["Trace"], 
+          "evs": {
+            "hp": 4, "spa": 252, "spe": 252
+          },  
+          "nature": "Timid", 
+          "moves": [
+            ["Protect"], 
+            ["Substitute", "Will-o-Wisp", "Ally Switch"], 
+            ["Hyper Voice"],
+            ["Psychic", "Psyshock"]
+          ]
+        },
+        {
+          "species": "Gardevoir", 
+          "gigantamax": false, 
+          "item": [
+            "Choice Scarf"
+          ], 
+          "ability": ["Telepathy"], 
+          "evs": {
+            "hp": 4, 
+            "spa": 252, 
+            "spe": 252
+          },  
+          "nature": "Modest", 
+          "moves": [
+            ["Protect"], ["Trick Room"], ["Hyper Voice"],
+            ["Psychic", "Psyshock"]
+          ]
+        }
+      ]
+    }
+  },
+	"vgc2015": {
+
+  },
+  "vgc2016": {
+
+  }
+}

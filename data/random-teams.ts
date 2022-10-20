@@ -2871,13 +2871,17 @@ export class RandomTeams {
 		return pokemon;
 	}
 
+	// BSS Battle Factory Sets
 	randomBSSFactorySets: AnyObject = require('./bss-factory-sets.json');
 
-	randomBSSFactorySet(
-		species: Species, teamData: RandomTeamsTypes.FactoryTeamDetails
+	// VGC Battle Factory Sets
+	randomVGCFactorySets: AnyObject = require('./vgc-factory-sets.json');
+
+	randomMetaFactorySet(
+		species: Species, teamData: RandomTeamsTypes.FactoryTeamDetails, metaSets: AnyObject
 	): RandomTeamsTypes.RandomFactorySet | null {
 		const id = toID(species.name);
-		const setList = this.randomBSSFactorySets[id].sets;
+		const setList = metaSets[id].sets;
 
 		const movesMax: {[k: string]: number} = {
 			batonpass: 1,
@@ -2947,14 +2951,14 @@ export class RandomTeams {
 		};
 	}
 
-	randomBSSFactoryTeam(side: PlayerOptions, depth = 0): RandomTeamsTypes.RandomFactorySet[] {
+	randomMetaFactoryTeam(side: PlayerOptions, metaSets: AnyObject, depth = 0): RandomTeamsTypes.RandomFactorySet[] {
 		this.enforceNoDirectCustomBanlistChanges();
 
 		const forceResult = (depth >= 4);
 
 		const pokemon = [];
 
-		const pokemonPool = Object.keys(this.randomBSSFactorySets);
+		const pokemonPool = Object.keys(metaSets);
 
 		const teamData: TeamData = {
 			typeCount: {}, typeComboCount: {}, baseFormes: {}, has: {}, forceResult: forceResult,
@@ -2982,7 +2986,7 @@ export class RandomTeams {
 			const sets: {[k: string]: number} = {};
 			for (const specie of pokemonPool) {
 				if (teamData.baseFormes[this.dex.species.get(specie).baseSpecies]) continue; // Species Clause
-				const usage: number = this.randomBSSFactorySets[specie].usage;
+				const usage: number = metaSets[specie].usage;
 				sets[specie] = usage + maxUsage;
 				maxUsage += usage;
 			}
@@ -3016,7 +3020,7 @@ export class RandomTeams {
 			}
 			if (skip) continue;
 
-			const set = this.randomBSSFactorySet(species, teamData);
+			const set = this.randomMetaFactorySet(species, teamData, metaSets);
 			if (!set) continue;
 
 			// Limit 1 of any type combination
@@ -3082,19 +3086,45 @@ export class RandomTeams {
 				}
 			}
 		}
-		if (pokemon.length < this.maxTeamSize) return this.randomBSSFactoryTeam(side, ++depth);
+		if (pokemon.length < this.maxTeamSize) return this.randomMetaFactoryTeam(side, metaSets, ++depth);
 
 		// Quality control
 		if (!teamData.forceResult) {
 			for (const requiredFamily of requiredMoveFamilies) {
-				if (!teamData.has[requiredFamily]) return this.randomBSSFactoryTeam(side, ++depth);
+				if (!teamData.has[requiredFamily]) return this.randomMetaFactoryTeam(side, metaSets, ++depth);
 			}
 			for (const type in teamData.weaknesses) {
-				if (teamData.weaknesses[type] >= 3) return this.randomBSSFactoryTeam(side, ++depth);
+				if (teamData.weaknesses[type] >= 3) return this.randomMetaFactoryTeam(side, metaSets, ++depth);
 			}
 		}
 
 		return pokemon;
+	}
+
+	randomBSSFactoryTeam(
+		side: PlayerOptions
+	): RandomTeamsTypes.RandomFactorySet[]{
+
+		// Return a random bss factory team
+		return this.randomMetaFactoryTeam(
+			side, this.randomBSSFactorySets
+		);
+	}
+
+	randomVGCFactoryTeam(
+		side: PlayerOptions
+	): RandomTeamsTypes.RandomFactorySet[]{
+
+		// Get all of the formats for the gen
+		let formats = this.randomVGCFactorySets;
+
+		console.log(formats);
+
+		// Return a random vgc factory team
+		return this.randomMetaFactoryTeam(
+			// side, this.sampleIfArray(formats)
+			side, formats["vgc2014"]
+		);
 	}
 }
 
