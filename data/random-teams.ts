@@ -3103,8 +3103,7 @@ export class RandomTeams {
 
 	randomBSSFactoryTeam(
 		side: PlayerOptions
-	): RandomTeamsTypes.RandomFactorySet[]{
-
+	): RandomTeamsTypes.RandomFactorySet[] {
 		// Return a random bss factory team
 		return this.randomMetaFactoryTeam(
 			side, this.randomBSSFactorySets
@@ -3113,10 +3112,9 @@ export class RandomTeams {
 
 	randomVGCFactoryTeam(
 		side: PlayerOptions
-	): RandomTeamsTypes.RandomFactorySet[]{
-
+	): RandomTeamsTypes.RandomFactorySet[] {
 		// Get all of the formats for the gen
-		let formats = this.randomVGCFactorySets;
+		const formats = this.randomVGCFactorySets;
 
 		console.log(formats);
 
