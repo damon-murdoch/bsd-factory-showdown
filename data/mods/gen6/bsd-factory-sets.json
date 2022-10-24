@@ -1,0 +1,4725 @@
+{
+  "landorustherian": {
+    "usage": 10,
+    "sets": [
+      {
+        "species": "Landorus-Therian",
+        "gigantamax": false,
+        "item": [
+          "Choice Scarf",
+          "Assault Vest"
+        ],
+        "ability": [
+          "Intimidate"
+        ],
+        "evs": {
+          "hp": 4,
+          "atk": 244,
+          "def": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "U-turn"
+          ],
+          [
+            "Earthquake"
+          ],
+          [
+            "Rock Slide"
+          ],
+          [
+            "Superpower",
+            "Knock Off"
+          ]
+        ]
+      },
+      {
+        "species": "Landorus-Therian",
+        "gigantamax": false,
+        "item": [
+          "Choice Band"
+        ],
+        "ability": [
+          "Intimidate"
+        ],
+        "evs": {
+          "hp": 4,
+          "atk": 244,
+          "def": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Jolly",
+        "moves": [
+          [
+            "U-turn"
+          ],
+          [
+            "Earthquake"
+          ],
+          [
+            "Rock Slide"
+          ],
+          [
+            "Superpower",
+            "Knock Off"
+          ]
+        ]
+      },
+      {
+        "species": "Landorus-Therian",
+        "gigantamax": false,
+        "item": [
+          "Focus Sash",
+          "Life Orb"
+        ],
+        "ability": [
+          "Intimidate"
+        ],
+        "evs": {
+          "hp": 4,
+          "atk": 252,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Earthquake"
+          ],
+          [
+            "Rock Slide"
+          ],
+          [
+            "U-turn",
+            "Knock Off",
+            "Superpower"
+          ]
+        ]
+      },
+      {
+        "species": "Landorus-Therian",
+        "gigantamax": false,
+        "item": [
+          "Assault Vest"
+        ],
+        "ability": [
+          "Intimidate"
+        ],
+        "evs": {
+          "hp": 20,
+          "atk": 212,
+          "def": 4,
+          "spd": 20,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "U-turn"
+          ],
+          [
+            "Earthquake"
+          ],
+          [
+            "Rock Slide"
+          ],
+          [
+            "Superpower",
+            "Knock Off"
+          ]
+        ]
+      }
+    ]
+  },
+  "kangaskhan": {
+    "usage": 10,
+    "sets": [
+      {
+        "species": "Kangaskhan",
+        "gigantamax": false,
+        "item": [
+          "Kangaskhanite"
+        ],
+        "ability": [
+          "Scrappy",
+          "Inner Focus"
+        ],
+        "evs": {
+          "hp": 4,
+          "atk": 244,
+          "def": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Jolly",
+        "moves": [
+          [
+            "Return",
+            "Double-edge"
+          ],
+          [
+            "Low Kick",
+            "Power-up Punch"
+          ],
+          [
+            "Sucker Punch"
+          ],
+          [
+            "Fake Out",
+            "Protect"
+          ]
+        ]
+      },
+      {
+        "species": "Kangaskhan",
+        "gigantamax": false,
+        "item": [
+          "Kangaskhanite"
+        ],
+        "ability": [
+          "Scrappy",
+          "Inner Focus"
+        ],
+        "evs": {
+          "hp": 4,
+          "atk": 244,
+          "def": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Return",
+            "Double-edge"
+          ],
+          [
+            "Low Kick",
+            "Power-up Punch"
+          ],
+          [
+            "Sucker Punch"
+          ],
+          [
+            "Fake Out",
+            "Protect"
+          ]
+        ]
+      },
+      {
+        "species": "Kangaskhan",
+        "gigantamax": false,
+        "item": [
+          "Kangaskhanite"
+        ],
+        "ability": [
+          "Scrappy",
+          "Inner Focus"
+        ],
+        "evs": {
+          "hp": 180,
+          "atk": 252,
+          "def": 4,
+          "spd": 12,
+          "spe": 60
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Return",
+            "Double-edge"
+          ],
+          [
+            "Low Kick",
+            "Power-up Punch"
+          ],
+          [
+            "Sucker Punch"
+          ],
+          [
+            "Fake Out",
+            "Protect"
+          ]
+        ]
+      },
+      {
+        "species": "Kangaskhan",
+        "gigantamax": false,
+        "item": [
+          "Kangaskhanite"
+        ],
+        "ability": [
+          "Scrappy",
+          "Inner Focus"
+        ],
+        "evs": {
+          "hp": 212,
+          "atk": 252,
+          "spe": 44
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Return",
+            "Double-edge"
+          ],
+          [
+            "Low Kick",
+            "Power-up Punch"
+          ],
+          [
+            "Sucker Punch"
+          ],
+          [
+            "Fake Out",
+            "Protect"
+          ]
+        ]
+      }
+    ]
+  },
+  "heatran": {
+    "usage": 9,
+    "sets": [
+      {
+        "species": "Heatran",
+        "gigantamax": false,
+        "item": [
+          "Shuca Berry"
+        ],
+        "ability": [
+          "Flash Fire"
+        ],
+        "evs": {
+          "hp": 196,
+          "def": 52,
+          "spa": 252,
+          "spd": 4,
+          "spe": 4
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Timid",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Substitute",
+            "Flash Cannon"
+          ],
+          [
+            "Heat Wave"
+          ],
+          [
+            "Earth Power"
+          ]
+        ]
+      },
+      {
+        "species": "Heatran",
+        "gigantamax": false,
+        "item": [
+          "Shuca Berry"
+        ],
+        "ability": [
+          "Flash Fire"
+        ],
+        "evs": {
+          "hp": 4,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Timid",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Substitute",
+            "Flash Cannon"
+          ],
+          [
+            "Heat Wave"
+          ],
+          [
+            "Earth Power"
+          ]
+        ]
+      },
+      {
+        "species": "Heatran",
+        "gigantamax": false,
+        "item": [
+          "Shuca Berry"
+        ],
+        "ability": [
+          "Flash Fire"
+        ],
+        "evs": {
+          "hp": 4,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Substitute",
+            "Flash Cannon"
+          ],
+          [
+            "Heat Wave"
+          ],
+          [
+            "Earth Power"
+          ]
+        ]
+      },
+      {
+        "species": "Heatran",
+        "gigantamax": false,
+        "item": [
+          "Leftovers"
+        ],
+        "ability": [
+          "Flash Fire"
+        ],
+        "evs": {
+          "hp": 212,
+          "def": 4,
+          "spa": 36,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Timid",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Substitute"
+          ],
+          [
+            "Heat Wave"
+          ],
+          [
+            "Earth Power"
+          ]
+        ]
+      },
+      {
+        "species": "Heatran",
+        "gigantamax": false,
+        "item": [
+          "Shuca Berry"
+        ],
+        "ability": [
+          "Flash Fire"
+        ],
+        "evs": {
+          "spe": 20,
+          "hp": 236,
+          "spa": 252
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Substitute",
+            "Flash Cannon"
+          ],
+          [
+            "Heat Wave"
+          ],
+          [
+            "Earth Power"
+          ]
+        ]
+      }
+    ]
+  },
+  "thundurus": {
+    "usage": 9,
+    "sets": [
+      {
+        "species": "Thundurus",
+        "gigantamax": false,
+        "item": [
+          "Focus Sash",
+          "Life Orb"
+        ],
+        "ability": [
+          "Prankster"
+        ],
+        "evs": {
+          "hp": 4,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Timid",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Swagger",
+            "Taunt"
+          ],
+          [
+            "Thunderbolt"
+          ],
+          [
+            "Hidden Power Ice",
+            "Thunder Wave"
+          ]
+        ]
+      },
+      {
+        "species": "Thundurus",
+        "gigantamax": false,
+        "item": [
+          "Sitrus Berry",
+          "Safety Goggles"
+        ],
+        "ability": [
+          "Prankster"
+        ],
+        "evs": {
+          "spe": 28,
+          "def": 120,
+          "spd": 68,
+          "hp": 252,
+          "spa": 36
+        },
+        "ivs": {},
+        "nature": "Calm",
+        "moves": [
+          [
+            "Thunderbolt"
+          ],
+          [
+            "Thunder Wave"
+          ],
+          [
+            "Swagger",
+            "Taunt"
+          ],
+          [
+            "Protect",
+            "Hidden Power Ice"
+          ]
+        ]
+      },
+      {
+        "species": "Thundurus",
+        "gigantamax": false,
+        "item": [
+          "Sitrus Berry",
+          "Safety Goggles"
+        ],
+        "ability": [
+          "Prankster"
+        ],
+        "evs": {
+          "hp": 252,
+          "spd": 252,
+          "spe": 4
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Timid",
+        "moves": [
+          [
+            "Thunderbolt"
+          ],
+          [
+            "Thunder Wave"
+          ],
+          [
+            "Swagger",
+            "Taunt"
+          ],
+          [
+            "Protect",
+            "Hidden Power Ice"
+          ]
+        ]
+      },
+      {
+        "species": "Thundurus",
+        "gigantamax": false,
+        "item": [
+          "Sitrus Berry",
+          "Safety Goggles"
+        ],
+        "ability": [
+          "Prankster"
+        ],
+        "evs": {
+          "spe": 68,
+          "def": 28,
+          "spd": 172,
+          "hp": 228,
+          "spa": 12
+        },
+        "ivs": {},
+        "nature": "Calm",
+        "moves": [
+          [
+            "Thunderbolt"
+          ],
+          [
+            "Thunder Wave"
+          ],
+          [
+            "Swagger",
+            "Taunt"
+          ],
+          [
+            "Protect",
+            "Hidden Power Ice"
+          ]
+        ]
+      }
+    ]
+  },
+  "amoonguss": {
+    "usage": 10,
+    "sets": [
+      {
+        "species": "Amoonguss",
+        "gigantamax": false,
+        "item": [
+          "Rocky Helmet"
+        ],
+        "ability": [
+          "Regenerator"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 252,
+          "spd": 4
+        },
+        "ivs": {
+          "atk": 0,
+          "spe": 0
+        },
+        "nature": "Relaxed",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Rage Powder"
+          ],
+          [
+            "Giga Drain",
+            "Energy Ball",
+            "Sludge Bomb"
+          ],
+          [
+            "Spore"
+          ]
+        ]
+      },
+      {
+        "species": "Amoonguss",
+        "gigantamax": false,
+        "item": [
+          "Rocky Helmet"
+        ],
+        "ability": [
+          "Regenerator"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 4,
+          "spd": 252
+        },
+        "ivs": {
+          "atk": 0,
+          "spe": 0
+        },
+        "nature": "Sassy",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Rage Powder"
+          ],
+          [
+            "Giga Drain",
+            "Energy Ball",
+            "Sludge Bomb"
+          ],
+          [
+            "Spore"
+          ]
+        ]
+      },
+      {
+        "species": "Amoonguss",
+        "gigantamax": false,
+        "item": [
+          "Rocky Helmet"
+        ],
+        "ability": [
+          "Regenerator"
+        ],
+        "evs": {
+          "def": 132,
+          "spd": 140,
+          "hp": 236
+        },
+        "ivs": {
+          "spe": 0
+        },
+        "nature": "Sassy",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Rage Powder"
+          ],
+          [
+            "Giga Drain",
+            "Energy Ball",
+            "Sludge Bomb"
+          ],
+          [
+            "Spore"
+          ]
+        ]
+      }
+    ]
+  },
+  "aegislash": {
+    "usage": 8,
+    "sets": [
+      {
+        "species": "Aegislash",
+        "gigantamax": false,
+        "item": [
+          "Weakness Policy"
+        ],
+        "ability": [
+          "Stance Change"
+        ],
+        "evs": {
+          "hp": 252,
+          "spa": 252,
+          "spd": 4
+        },
+        "ivs": {
+          "atk": 0,
+          "spe": 0
+        },
+        "nature": "Quiet",
+        "moves": [
+          [
+            "King's Shield"
+          ],
+          [
+            "Wide Guard"
+          ],
+          [
+            "Shadow Ball"
+          ],
+          [
+            "Flash Cannon"
+          ]
+        ]
+      },
+      {
+        "species": "Aegislash",
+        "gigantamax": false,
+        "item": [
+          "Leftovers"
+        ],
+        "ability": [
+          "Stance Change"
+        ],
+        "evs": {
+          "hp": 196,
+          "def": 4,
+          "spa": 220,
+          "spd": 4,
+          "spe": 84
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "King's Shield"
+          ],
+          [
+            "Substitute"
+          ],
+          [
+            "Toxic"
+          ],
+          [
+            "Shadow Ball"
+          ]
+        ]
+      },
+      {
+        "species": "Aegislash",
+        "gigantamax": false,
+        "item": [
+          "Life Orb"
+        ],
+        "ability": [
+          "Stance Change"
+        ],
+        "evs": {
+          "hp": 196,
+          "def": 4,
+          "spa": 220,
+          "spd": 4,
+          "spe": 84
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "King's Shield"
+          ],
+          [
+            "Substitute",
+            "Shadow Sneak"
+          ],
+          [
+            "Flash Cannon"
+          ],
+          [
+            "Shadow Ball"
+          ]
+        ]
+      },
+      {
+        "species": "Aegislash",
+        "gigantamax": false,
+        "item": [
+          "Life Orb"
+        ],
+        "ability": [
+          "Stance Change"
+        ],
+        "evs": {
+          "hp": 252,
+          "spa": 220,
+          "spe": 36
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "King's Shield"
+          ],
+          [
+            "Substitute",
+            "Shadow Sneak"
+          ],
+          [
+            "Flash Cannon"
+          ],
+          [
+            "Shadow Ball"
+          ]
+        ]
+      }
+    ]
+  },
+  "cresselia": {
+    "usage": 8,
+    "sets": [
+      {
+        "species": "Cresselia",
+        "gigantamax": false,
+        "item": [
+          "Sitrus Berry",
+          "Safety Goggles",
+          "Rocky Helmet",
+          "Mental Herb",
+          "Leftovers"
+        ],
+        "ability": [
+          "Levitate"
+        ],
+        "evs": {
+          "hp": 212,
+          "def": 60,
+          "spd": 236
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Calm",
+        "moves": [
+          [
+            "Psychic"
+          ],
+          [
+            "Ice Beam",
+            "Icy Wind"
+          ],
+          [
+            "Trick Room"
+          ],
+          [
+            "Moonlight",
+            "Helping Hand"
+          ]
+        ]
+      },
+      {
+        "species": "Cresselia",
+        "gigantamax": false,
+        "item": [
+          "Sitrus Berry",
+          "Safety Goggles",
+          "Rocky Helmet"
+        ],
+        "ability": [
+          "Levitate"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 4
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Psychic"
+          ],
+          [
+            "Ice Beam"
+          ],
+          [
+            "Trick Room",
+            "Icy Wind"
+          ],
+          [
+            "Protect",
+            "Helping Hand"
+          ]
+        ]
+      },
+      {
+        "species": "Cresselia",
+        "gigantamax": false,
+        "item": [
+          "Sitrus Berry",
+          "Safety Goggles",
+          "Rocky Helmet"
+        ],
+        "ability": [
+          "Levitate"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 4
+        },
+        "ivs": {
+          "atk": 0,
+          "spe": 0
+        },
+        "nature": "Quiet",
+        "moves": [
+          [
+            "Psychic"
+          ],
+          [
+            "Ice Beam"
+          ],
+          [
+            "Trick Room"
+          ],
+          [
+            "Protect",
+            "Helping Hand"
+          ]
+        ]
+      },
+      {
+        "species": "Cresselia",
+        "gigantamax": false,
+        "item": [
+          "Sitrus Berry",
+          "Safety Goggles",
+          "Rocky Helmet",
+          "Mental Herb",
+          "Leftovers"
+        ],
+        "ability": [
+          "Levitate"
+        ],
+        "evs": {
+          "hp": 220,
+          "def": 76,
+          "spa": 36,
+          "spd": 4,
+          "spe": 172
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Bold",
+        "moves": [
+          [
+            "Psychic",
+            "Psyshock"
+          ],
+          [
+            "Icy Wind",
+            "Ice Beam"
+          ],
+          [
+            "Calm Mind"
+          ],
+          [
+            "Moonlight"
+          ]
+        ]
+      }
+    ]
+  },
+  "sylveon": {
+    "usage": 8,
+    "sets": [
+      {
+        "species": "Sylveon",
+        "gigantamax": false,
+        "item": [
+          "Choice Specs"
+        ],
+        "ability": [
+          "Pixilate"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 4
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Hyper Voice"
+          ],
+          [
+            "Hyper Beam"
+          ],
+          [
+            "Psyshock",
+            "Hidden Power Ground"
+          ],
+          [
+            "Shadow Ball"
+          ]
+        ]
+      },
+      {
+        "species": "Sylveon",
+        "gigantamax": false,
+        "item": [
+          "Choice Specs"
+        ],
+        "ability": [
+          "Pixilate"
+        ],
+        "evs": {
+          "hp": 92,
+          "def": 116,
+          "spa": 220,
+          "spd": 4,
+          "spe": 76
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Hyper Voice"
+          ],
+          [
+            "Hyper Beam"
+          ],
+          [
+            "Psyshock",
+            "Hidden Power Ground"
+          ],
+          [
+            "Shadow Ball"
+          ]
+        ]
+      },
+      {
+        "species": "Sylveon",
+        "gigantamax": false,
+        "item": [
+          "Pixie Plate"
+        ],
+        "ability": [
+          "Pixilate"
+        ],
+        "evs": {
+          "hp": 92,
+          "def": 116,
+          "spa": 220,
+          "spd": 4,
+          "spe": 76
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Protect",
+            "Detect"
+          ],
+          [
+            "Helping Hand",
+            "Hidden Power Ground",
+            "Calm Mind",
+            "Quick Attack",
+            "Moonblast"
+          ],
+          [
+            "Hyper Voice"
+          ],
+          [
+            "Hyper Beam"
+          ]
+        ]
+      },
+      {
+        "species": "Sylveon",
+        "gigantamax": false,
+        "item": [
+          "Pixie Plate"
+        ],
+        "ability": [
+          "Pixilate"
+        ],
+        "evs": {
+          "hp": 164,
+          "def": 212,
+          "spa": 116,
+          "spd": 4,
+          "spe": 12
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Protect",
+            "Detect"
+          ],
+          [
+            "Helping Hand",
+            "Hidden Power Ground",
+            "Calm Mind",
+            "Quick Attack",
+            "Moonblast"
+          ],
+          [
+            "Hyper Voice"
+          ],
+          [
+            "Hyper Beam"
+          ]
+        ]
+      }
+    ]
+  },
+  "charizard": {
+    "usage": 8,
+    "sets": [
+      {
+        "species": "Charizard",
+        "gigantamax": false,
+        "item": [
+          "Charizardite Y"
+        ],
+        "ability": [
+          "Blaze"
+        ],
+        "evs": {
+          "hp": 4,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Timid",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Overheat",
+            "Flamethrower",
+            "Hidden Power Ground",
+            "Tailwind"
+          ],
+          [
+            "Heat Wave"
+          ],
+          [
+            "Solar Beam"
+          ]
+        ]
+      },
+      {
+        "species": "Charizard",
+        "gigantamax": false,
+        "item": [
+          "Charizardite Y"
+        ],
+        "ability": [
+          "Blaze"
+        ],
+        "evs": {
+          "hp": 4,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Overheat",
+            "Flamethrower",
+            "Hidden Power Ground",
+            "Tailwind"
+          ],
+          [
+            "Heat Wave"
+          ],
+          [
+            "Solar Beam"
+          ]
+        ]
+      },
+      {
+        "species": "Charizard",
+        "gigantamax": false,
+        "item": [
+          "Charizardite Y"
+        ],
+        "ability": [
+          "Blaze"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 4,
+          "spa": 4,
+          "spd": 20,
+          "spe": 228
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Timid",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Tailwind",
+            "Hidden Power Ground"
+          ],
+          [
+            "Flamethrower",
+            "Overheat"
+          ],
+          [
+            "Solar Beam"
+          ]
+        ]
+      },
+      {
+        "species": "Charizard",
+        "gigantamax": false,
+        "item": [
+          "Charizardite Y"
+        ],
+        "ability": [
+          "Blaze"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 4,
+          "spa": 36,
+          "spd": 20,
+          "spe": 196
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Tailwind",
+            "Hidden Power Ground"
+          ],
+          [
+            "Heat Wave",
+            "Flamethrower",
+            "Overheat"
+          ],
+          [
+            "Solar Beam"
+          ]
+        ]
+      },
+      {
+        "species": "Charizard",
+        "gigantamax": false,
+        "item": [
+          "Charizardite Y"
+        ],
+        "ability": [
+          "Blaze"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 4,
+          "spa": 44,
+          "spd": 20,
+          "spe": 188
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Tailwind",
+            "Hidden Power Ground"
+          ],
+          [
+            "Heat Wave",
+            "Flamethrower",
+            "Overheat"
+          ],
+          [
+            "Solar Beam"
+          ]
+        ]
+      },
+      {
+        "species": "Charizard",
+        "gigantamax": false,
+        "item": [
+          "Charizardite Y"
+        ],
+        "ability": [
+          "Blaze"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 28,
+          "spa": 60,
+          "spd": 12,
+          "spe": 156
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Tailwind",
+            "Hidden Power Ground"
+          ],
+          [
+            "Heat Wave",
+            "Flamethrower",
+            "Overheat"
+          ],
+          [
+            "Solar Beam"
+          ]
+        ]
+      },
+      {
+        "species": "Charizard",
+        "gigantamax": false,
+        "item": [
+          "Charizardite X"
+        ],
+        "ability": [
+          "Blaze"
+        ],
+        "evs": {
+          "hp": 4,
+          "atk": 244,
+          "def": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Dragon Dance"
+          ],
+          [
+            "Dragon Claw",
+            "Roost"
+          ],
+          [
+            "Flare Blitz"
+          ]
+        ]
+      },
+      {
+        "species": "Charizard",
+        "gigantamax": false,
+        "item": [
+          "Charizardite X"
+        ],
+        "ability": [
+          "Blaze"
+        ],
+        "evs": {
+          "hp": 252,
+          "atk": 4,
+          "def": 4,
+          "spd": 220,
+          "spe": 28
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Will-o-wisp"
+          ],
+          [
+            "Roost"
+          ],
+          [
+            "Flare Blitz"
+          ]
+        ]
+      }
+    ]
+  },
+  "milotic": {
+    "usage": 7,
+    "sets": [
+      {
+        "species": "Milotic",
+        "gigantamax": false,
+        "item": [
+          "Maranga Berry",
+          "Sitrus Berry",
+          "Leftovers"
+        ],
+        "ability": [
+          "Competitive"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 252,
+          "spa": 4
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Bold",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Recover"
+          ],
+          [
+            "Scald"
+          ],
+          [
+            "Icy Wind",
+            "Ice Beam",
+            "Toxic"
+          ]
+        ]
+      },
+      {
+        "species": "Milotic",
+        "gigantamax": false,
+        "item": [
+          "Maranga Berry",
+          "Sitrus Berry",
+          "Leftovers"
+        ],
+        "ability": [
+          "Competitive"
+        ],
+        "evs": {
+          "hp": 236,
+          "def": 140,
+          "spa": 132
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Recover"
+          ],
+          [
+            "Scald"
+          ],
+          [
+            "Icy Wind",
+            "Ice Beam",
+            "Toxic"
+          ]
+        ]
+      }
+    ]
+  },
+  "gardevoir": {
+    "usage": 8,
+    "sets": [
+      {
+        "species": "Gardevoir",
+        "gigantamax": false,
+        "item": [
+          "Gardevoirite"
+        ],
+        "ability": [
+          "Trace"
+        ],
+        "evs": {
+          "hp": 4,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Timid",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Ally Switch",
+            "Encore",
+            "Imprison",
+            "Hidden Power Ground"
+          ],
+          [
+            "Hyper Voice"
+          ],
+          [
+            "Psychic"
+          ]
+        ]
+      },
+      {
+        "species": "Gardevoir",
+        "gigantamax": false,
+        "item": [
+          "Gardevoirite"
+        ],
+        "ability": [
+          "Trace"
+        ],
+        "evs": {
+          "hp": 4,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Timid",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Trick Room",
+            "Ally Switch",
+            "Encore",
+            "Hidden Power Ground"
+          ],
+          [
+            "Hyper Voice"
+          ],
+          [
+            "Psychic"
+          ]
+        ]
+      },
+      {
+        "species": "Gardevoir",
+        "gigantamax": false,
+        "item": [
+          "Gardevoirite"
+        ],
+        "ability": [
+          "Trace"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 116,
+          "spa": 116,
+          "spd": 4,
+          "spe": 20
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Trick Room"
+          ],
+          [
+            "Hyper Voice"
+          ],
+          [
+            "Psychic"
+          ]
+        ]
+      },
+      {
+        "species": "Gardevoir",
+        "gigantamax": false,
+        "item": [
+          "Gardevoirite"
+        ],
+        "ability": [
+          "Trace"
+        ],
+        "evs": {
+          "hp": 172,
+          "def": 100,
+          "spa": 196,
+          "spd": 12,
+          "spe": 28
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Trick Room"
+          ],
+          [
+            "Hyper Voice"
+          ],
+          [
+            "Psychic"
+          ]
+        ]
+      }
+    ]
+  },
+  "salamence": {
+    "usage": 8,
+    "sets": [
+      {
+        "species": "Salamence",
+        "gigantamax": false,
+        "item": [
+          "Salamencite"
+        ],
+        "ability": [
+          "Intimidate"
+        ],
+        "evs": {
+          "hp": 4,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Timid",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Hyper Voice"
+          ],
+          [
+            "Draco Meteor"
+          ],
+          [
+            "Flamethrower",
+            "Fire Blast",
+            "Tailwind"
+          ]
+        ]
+      },
+      {
+        "species": "Salamence",
+        "gigantamax": false,
+        "item": [
+          "Salamencite"
+        ],
+        "ability": [
+          "Intimidate"
+        ],
+        "evs": {
+          "hp": 4,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Hyper Voice"
+          ],
+          [
+            "Draco Meteor"
+          ],
+          [
+            "Flamethrower",
+            "Fire Blast",
+            "Tailwind"
+          ]
+        ]
+      },
+      {
+        "species": "Salamence",
+        "gigantamax": false,
+        "item": [
+          "Salamencite"
+        ],
+        "ability": [
+          "Intimidate"
+        ],
+        "evs": {
+          "hp": 4,
+          "atk": 244,
+          "def": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Jolly",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Dragon Dance"
+          ],
+          [
+            "Double-edge",
+            "Return"
+          ],
+          [
+            "Earthquake",
+            "Dragon Claw",
+            "Roost"
+          ]
+        ]
+      },
+      {
+        "species": "Salamence",
+        "gigantamax": false,
+        "item": [
+          "Salamencite"
+        ],
+        "ability": [
+          "Intimidate"
+        ],
+        "evs": {
+          "hp": 4,
+          "atk": 244,
+          "def": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Dragon Dance"
+          ],
+          [
+            "Double-edge",
+            "Return"
+          ],
+          [
+            "Earthquake",
+            "Dragon Claw",
+            "Roost"
+          ]
+        ]
+      },
+      {
+        "species": "Salamence",
+        "gigantamax": false,
+        "item": [
+          "Salamencite"
+        ],
+        "ability": [
+          "Intimidate"
+        ],
+        "evs": {
+          "atk": 44,
+          "spa": 212,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Naive",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Hyper Voice"
+          ],
+          [
+            "Double Edge"
+          ],
+          [
+            "Tailwind",
+            "Roost",
+            "Flamethrower",
+            "Draco Meteor"
+          ]
+        ]
+      },
+      {
+        "species": "Salamence",
+        "gigantamax": false,
+        "item": [
+          "Salamencite"
+        ],
+        "ability": [
+          "Intimidate"
+        ],
+        "evs": {
+          "hp": 20,
+          "atk": 44,
+          "spa": 172,
+          "spd": 20,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Naive",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Hyper Voice"
+          ],
+          [
+            "Double Edge"
+          ],
+          [
+            "Tailwind",
+            "Roost",
+            "Flamethrower",
+            "Draco Meteor"
+          ]
+        ]
+      }
+    ]
+  },
+  "tyranitar": {
+    "usage": 7,
+    "sets": [
+      {
+        "species": "Tyranitar",
+        "gigantamax": false,
+        "item": [
+          "Tyranitarite"
+        ],
+        "ability": [],
+        "evs": {
+          "hp": 4,
+          "atk": 244,
+          "def": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Jolly",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Dragon Dance"
+          ],
+          [
+            "Rock Slide"
+          ],
+          [
+            "Crunch"
+          ]
+        ]
+      },
+      {
+        "species": "Tyranitar",
+        "gigantamax": false,
+        "item": [
+          "Choice Scarf"
+        ],
+        "ability": [
+          "Sand Stream"
+        ],
+        "evs": {
+          "hp": 12,
+          "atk": 236,
+          "def": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Jolly",
+        "moves": [
+          [
+            "Rock Slide"
+          ],
+          [
+            "Crunch",
+            "Assurance"
+          ],
+          [
+            "Ice Punch",
+            "Ice Beam",
+            "Earthquake"
+          ],
+          [
+            "Low Kick",
+            "Superpower"
+          ]
+        ]
+      },
+      {
+        "species": "Tyranitar",
+        "gigantamax": false,
+        "item": [
+          "Choice Scarf"
+        ],
+        "ability": [
+          "Sand Stream"
+        ],
+        "evs": {
+          "hp": 4,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Timid",
+        "moves": [
+          [
+            "Rock Slide"
+          ],
+          [
+            "Dark Pulse"
+          ],
+          [
+            "Flamethrower"
+          ],
+          [
+            "Ice Beam"
+          ]
+        ]
+      },
+      {
+        "species": "Tyranitar",
+        "gigantamax": false,
+        "item": [
+          "Weakness Policy",
+          "Life Orb",
+          "Lum Berry",
+          "Chople Berry"
+        ],
+        "ability": [
+          "Sand Stream"
+        ],
+        "evs": {
+          "hp": 252,
+          "atk": 252,
+          "spd": 4
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Rock Slide"
+          ],
+          [
+            "Crunch"
+          ],
+          [
+            "Low Kick",
+            "Superpower"
+          ]
+        ]
+      }
+    ]
+  },
+  "conkeldurr": {
+    "usage": 7,
+    "sets": [
+      {
+        "species": "Conkeldurr",
+        "gigantamax": false,
+        "item": [
+          "Assault Vest"
+        ],
+        "ability": [
+          "Guts",
+          "Iron Fist"
+        ],
+        "evs": {
+          "hp": 20,
+          "atk": 244,
+          "def": 12,
+          "spd": 228,
+          "spe": 4
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Mach Punch"
+          ],
+          [
+            "Drain Punch"
+          ],
+          [
+            "Ice Punch",
+            "Stone Edge",
+            "Rock Tomb"
+          ],
+          [
+            "Knock Off"
+          ]
+        ]
+      },
+      {
+        "species": "Conkeldurr",
+        "gigantamax": false,
+        "item": [
+          "Life Orb"
+        ],
+        "ability": [
+          "Iron Fist",
+          "Guts"
+        ],
+        "evs": {
+          "hp": 100,
+          "atk": 116,
+          "def": 140,
+          "spd": 68,
+          "spe": 84
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Detect",
+            "Wide Guard"
+          ],
+          [
+            "Ice Punch",
+            "Knock Off",
+            "Stone Edge",
+            "Rock Tomb"
+          ],
+          [
+            "Drain Punch"
+          ],
+          [
+            "Mach Punch"
+          ]
+        ]
+      },
+      {
+        "species": "Conkeldurr",
+        "gigantamax": false,
+        "item": [
+          "Life Orb"
+        ],
+        "ability": [
+          "Iron Fist",
+          "Guts"
+        ],
+        "evs": {
+          "hp": 212,
+          "atk": 252,
+          "spd": 44
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Brave",
+        "moves": [
+          [
+            "Detect",
+            "Wide Guard"
+          ],
+          [
+            "Ice Punch",
+            "Knock Off",
+            "Stone Edge",
+            "Rock Tomb"
+          ],
+          [
+            "Drain Punch",
+            "Hammer Arm"
+          ],
+          [
+            "Mach Punch"
+          ]
+        ]
+      },
+      {
+        "species": "Conkeldurr",
+        "gigantamax": false,
+        "item": [
+          "Flame Orb"
+        ],
+        "ability": [
+          "Guts"
+        ],
+        "evs": {
+          "hp": 100,
+          "atk": 116,
+          "def": 140,
+          "spd": 68,
+          "spe": 84
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Detect"
+          ],
+          [
+            "Ice Punch",
+            "Knock Off",
+            "Stone Edge",
+            "Rock Tomb"
+          ],
+          [
+            "Drain Punch"
+          ],
+          [
+            "Mach Punch"
+          ]
+        ]
+      }
+    ]
+  },
+  "scrafty": {
+    "usage": 7,
+    "sets": [
+      {
+        "species": "Scrafty",
+        "gigantamax": false,
+        "item": [
+          "Assault Vest"
+        ],
+        "ability": [
+          "Intimidate"
+        ],
+        "evs": {
+          "hp": 252,
+          "atk": 164,
+          "spd": 92
+        },
+        "ivs": {},
+        "nature": "Careful",
+        "moves": [
+          [
+            "Knock Off"
+          ],
+          [
+            "Drain Punch"
+          ],
+          [
+            "Stone Edge",
+            "Ice Punch",
+            "Super Fang"
+          ],
+          [
+            "Fake Out"
+          ]
+        ]
+      },
+      {
+        "species": "Scrafty",
+        "gigantamax": false,
+        "item": [
+          "Lum Berry",
+          "Sitrus Berry",
+          "Eject Button",
+          "Safety Goggles"
+        ],
+        "ability": [
+          "Intimidate"
+        ],
+        "evs": {
+          "hp": 252,
+          "atk": 180,
+          "def": 28,
+          "spd": 4,
+          "spe": 44
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Protect",
+            "Detect",
+            "Quick Guard"
+          ],
+          [
+            "Drain Punch"
+          ],
+          [
+            "Knock Off"
+          ],
+          [
+            "Fake Out"
+          ]
+        ]
+      },
+      {
+        "species": "Scrafty",
+        "gigantamax": false,
+        "item": [
+          "Lum Berry",
+          "Sitrus Berry",
+          "Eject Button",
+          "Safety Goggles"
+        ],
+        "ability": [
+          "Intimidate"
+        ],
+        "evs": {
+          "hp": 252,
+          "atk": 244,
+          "def": 4,
+          "spd": 4,
+          "spe": 4
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Protect",
+            "Detect",
+            "Quick Guard"
+          ],
+          [
+            "Drain Punch"
+          ],
+          [
+            "Knock Off"
+          ],
+          [
+            "Fake Out"
+          ]
+        ]
+      },
+      {
+        "species": "Scrafty",
+        "gigantamax": false,
+        "item": [
+          "Lum Berry",
+          "Sitrus Berry",
+          "Eject Button",
+          "Safety Goggles"
+        ],
+        "ability": [
+          "Intimidate"
+        ],
+        "evs": {
+          "hp": 252,
+          "atk": 252,
+          "spd": 4
+        },
+        "ivs": {
+          "spe": 0
+        },
+        "nature": "Brave",
+        "moves": [
+          [
+            "Protect",
+            "Detect",
+            "Quick Guard"
+          ],
+          [
+            "Drain Punch"
+          ],
+          [
+            "Knock Off"
+          ],
+          [
+            "Fake Out"
+          ]
+        ]
+      }
+    ]
+  },
+  "rotomwash": {
+    "usage": 6,
+    "sets": [
+      {
+        "species": "Rotom-Wash",
+        "gigantamax": false,
+        "item": [
+          "Sitrus Berry"
+        ],
+        "ability": [
+          "Leviate"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 36,
+          "spa": 36,
+          "spd": 44,
+          "spe": 140
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Calm",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Hydro Pump"
+          ],
+          [
+            "Thunderbolt",
+            "Volt Switch"
+          ],
+          [
+            "Will-o-wisp",
+            "Thunder Wave"
+          ]
+        ]
+      },
+      {
+        "species": "Rotom-Wash",
+        "gigantamax": false,
+        "item": [
+          "Sitrus Berry"
+        ],
+        "ability": [
+          "Leviate"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 4,
+          "spa": 28,
+          "spd": 92,
+          "spe": 132
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Calm",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Hydro Pump"
+          ],
+          [
+            "Thunderbolt",
+            "Volt Switch"
+          ],
+          [
+            "Will-o-wisp",
+            "Thunder Wave"
+          ]
+        ]
+      },
+      {
+        "species": "Rotom-Wash",
+        "gigantamax": false,
+        "item": [
+          "Sitrus Berry"
+        ],
+        "ability": [
+          "Leviate"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 124,
+          "spa": 4,
+          "spd": 96,
+          "spe": 28
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Hydro Pump"
+          ],
+          [
+            "Thunderbolt",
+            "Volt Switch"
+          ],
+          [
+            "Will-o-wisp",
+            "Thunder Wave"
+          ]
+        ]
+      },
+      {
+        "species": "Rotom-Wash",
+        "gigantamax": false,
+        "item": [
+          "Choice Specs",
+          "Choice Scarf"
+        ],
+        "ability": [
+          "Levitate"
+        ],
+        "evs": {
+          "hp": 4,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Timid",
+        "moves": [
+          [
+            "Trick"
+          ],
+          [
+            "Hydro Pump"
+          ],
+          [
+            "Volt Switch"
+          ],
+          [
+            "Thunderbolt",
+            "Will-o-wisp",
+            "Thunder Wave"
+          ]
+        ]
+      }
+    ]
+  },
+  "zapdos": {
+    "usage": 6,
+    "sets": [
+      {
+        "species": "Zapdos",
+        "gigantamax": false,
+        "item": [
+          "Sitrus Berry",
+          "Safety Goggles",
+          "Expert Belt",
+          "Life Orb"
+        ],
+        "ability": [
+          "Pressure"
+        ],
+        "evs": {
+          "hp": 4,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Timid",
+        "moves": [
+          [
+            "Thunderbolt"
+          ],
+          [
+            "Hidden Power Ice"
+          ],
+          [
+            "Tailwind",
+            "Heat Wave"
+          ],
+          [
+            "Protect",
+            "Roost"
+          ]
+        ]
+      },
+      {
+        "species": "Zapdos",
+        "gigantamax": false,
+        "item": [
+          "Sitrus Berry",
+          "Safety Goggles",
+          "Expert Belt",
+          "Life Orb"
+        ],
+        "ability": [
+          "Pressure"
+        ],
+        "evs": {
+          "hp": 4,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Thunderbolt"
+          ],
+          [
+            "Hidden Power Ice"
+          ],
+          [
+            "Tailwind",
+            "Heat Wave"
+          ],
+          [
+            "Protect",
+            "Roost"
+          ]
+        ]
+      },
+      {
+        "species": "Zapdos",
+        "gigantamax": false,
+        "item": [
+          "Sitrus Berry",
+          "Weakness Policy",
+          "Safety Goggles"
+        ],
+        "ability": [
+          "Pressure"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 80,
+          "spa": 4,
+          "spd": 140,
+          "spe": 28
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Calm",
+        "moves": [
+          [
+            "Thunderbolt"
+          ],
+          [
+            "Hidden Power Ice"
+          ],
+          [
+            "Tailwind",
+            "Heat Wave"
+          ],
+          [
+            "Roost"
+          ]
+        ]
+      },
+      {
+        "species": "Zapdos",
+        "gigantamax": false,
+        "item": [
+          "Sitrus Berry",
+          "Weakness Policy",
+          "Safety Goggles"
+        ],
+        "ability": [
+          "Pressure"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 160,
+          "spa": 52,
+          "spd": 12,
+          "spe": 28
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Bold",
+        "moves": [
+          [
+            "Thunderbolt"
+          ],
+          [
+            "Hidden Power Ice"
+          ],
+          [
+            "Tailwind",
+            "Heat Wave"
+          ],
+          [
+            "Roost"
+          ]
+        ]
+      }
+    ]
+  },
+  "bisharp": {
+    "usage": 5,
+    "sets": [
+      {
+        "species": "Bisharp",
+        "gigantamax": false,
+        "item": [
+          "Life Orb",
+          "Focus Sash"
+        ],
+        "ability": [
+          "Defiant"
+        ],
+        "evs": {
+          "hp": 4,
+          "atk": 244,
+          "def": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Sucker Punch"
+          ],
+          [
+            "Iron Head"
+          ],
+          [
+            "Knock Off"
+          ]
+        ]
+      },
+      {
+        "species": "Bisharp",
+        "gigantamax": false,
+        "item": [
+          "Choice Band"
+        ],
+        "ability": [
+          "Defiant"
+        ],
+        "evs": {
+          "hp": 4,
+          "atk": 244,
+          "def": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Sucker Punch"
+          ],
+          [
+            "Iron Head"
+          ],
+          [
+            "Knock Off"
+          ],
+          [
+            "Brick Break",
+            "Stone Edge"
+          ]
+        ]
+      }
+    ]
+  },
+  "gengar": {
+    "usage": 7,
+    "sets": [
+      {
+        "species": "Gengar",
+        "gigantamax": false,
+        "item": [
+          "Gengarite"
+        ],
+        "ability": [
+          "Levitate"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 44,
+          "spa": 4,
+          "spd": 28,
+          "spe": 180
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Timid",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Disable",
+            "Substitute"
+          ],
+          [
+            "Perish Song"
+          ],
+          [
+            "Shadow Ball"
+          ]
+        ]
+      },
+      {
+        "species": "Gengar",
+        "gigantamax": false,
+        "item": [
+          "Gengarite"
+        ],
+        "ability": [
+          "Levitate"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 44,
+          "spa": 4,
+          "spd": 28,
+          "spe": 180
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Timid",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Icy Wind",
+            "Substitute",
+            "Will-o-wisp",
+            "Taunt"
+          ],
+          [
+            "Sludge Bomb"
+          ],
+          [
+            "Shadow Ball"
+          ]
+        ]
+      },
+      {
+        "species": "Gengar",
+        "gigantamax": false,
+        "item": [
+          "Gengarite"
+        ],
+        "ability": [
+          "Levitate"
+        ],
+        "evs": {
+          "hp": 4,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Timid",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Icy Wind",
+            "Substitute",
+            "Will-o-wisp",
+            "Taunt"
+          ],
+          [
+            "Sludge Bomb"
+          ],
+          [
+            "Shadow Ball"
+          ]
+        ]
+      },
+      {
+        "species": "Gengar",
+        "gigantamax": false,
+        "item": [
+          "Focus Sash"
+        ],
+        "ability": [
+          "Levitate"
+        ],
+        "evs": {
+          "hp": 4,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Timid",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Shadow Ball"
+          ],
+          [
+            "Sludge Bomb"
+          ],
+          [
+            "Icy Wind",
+            "Will-o-wisp",
+            "Taunt"
+          ]
+        ]
+      }
+    ]
+  },
+  "hydreigon": {
+    "usage": 5,
+    "sets": [
+      {
+        "species": "Hydreigon",
+        "gigantamax": false,
+        "item": [
+          "Choice Specs"
+        ],
+        "ability": [
+          "Levitate"
+        ],
+        "evs": {
+          "hp": 4,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Timid",
+        "moves": [
+          [
+            "Dark Pulse"
+          ],
+          [
+            "Draco Meteor"
+          ],
+          [
+            "Earth Power"
+          ],
+          [
+            "Flamethrower",
+            "Fire Blast",
+            "Hidden Power Ice"
+          ]
+        ]
+      },
+      {
+        "species": "Hydreigon",
+        "gigantamax": false,
+        "item": [
+          "Choice Specs",
+          "Choice Scarf"
+        ],
+        "ability": [
+          "Levitate"
+        ],
+        "evs": {
+          "hp": 4,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Dark Pulse"
+          ],
+          [
+            "Draco Meteor"
+          ],
+          [
+            "Earth Power"
+          ],
+          [
+            "Flamethrower",
+            "Fire Blast",
+            "Hidden Power Ice"
+          ]
+        ]
+      },
+      {
+        "species": "Hydreigon",
+        "gigantamax": false,
+        "item": [
+          "Life Orb",
+          "Focus Sash",
+          "Black Glasses"
+        ],
+        "ability": [
+          "Levitate"
+        ],
+        "evs": {
+          "hp": 4,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Timid",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Draco Meteor"
+          ],
+          [
+            "Dark Pulse"
+          ],
+          [
+            "Earth Power",
+            "Flamethrower",
+            "Fire Blast",
+            "Tailwind"
+          ]
+        ]
+      },
+      {
+        "species": "Hydreigon",
+        "gigantamax": false,
+        "item": [
+          "Life Orb",
+          "Focus Sash",
+          "Black Glasses"
+        ],
+        "ability": [
+          "Levitate"
+        ],
+        "evs": {
+          "hp": 108,
+          "def": 44,
+          "spa": 124,
+          "spd": 4,
+          "spe": 228
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Draco Meteor"
+          ],
+          [
+            "Dark Pulse"
+          ],
+          [
+            "Earth Power",
+            "Flamethrower",
+            "Fire Blast",
+            "Tailwind"
+          ]
+        ]
+      }
+    ]
+  },
+  "azumarill": {
+    "usage": 8,
+    "sets": [
+      {
+        "species": "Azumarill",
+        "gigantamax": false,
+        "item": [
+          "Sitrus Berry"
+        ],
+        "ability": [
+          "Huge Power"
+        ],
+        "evs": {
+          "hp": 196,
+          "atk": 252,
+          "def": 20,
+          "spd": 12,
+          "spe": 28
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Belly Drum"
+          ],
+          [
+            "Aqua Jet"
+          ],
+          [
+            "Play Rough",
+            "Knock Off",
+            "Return"
+          ]
+        ]
+      },
+      {
+        "species": "Azumarill",
+        "gigantamax": false,
+        "item": [
+          "Sitrus Berry"
+        ],
+        "ability": [
+          "Huge Power"
+        ],
+        "evs": {
+          "hp": 228,
+          "atk": 252,
+          "def": 4,
+          "spd": 20,
+          "spe": 4
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Belly Drum"
+          ],
+          [
+            "Aqua Jet"
+          ],
+          [
+            "Play Rough",
+            "Knock Off",
+            "Return"
+          ]
+        ]
+      },
+      {
+        "species": "Azumarill",
+        "gigantamax": false,
+        "item": [
+          "Sitrus Berry"
+        ],
+        "ability": [
+          "Huge Power"
+        ],
+        "evs": {
+          "spd": 100,
+          "atk": 204,
+          "def": 36,
+          "spe": 4
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Belly Drum"
+          ],
+          [
+            "Aqua Jet"
+          ],
+          [
+            "Play Rough",
+            "Knock Off",
+            "Return"
+          ]
+        ]
+      },
+      {
+        "species": "Azumarill",
+        "gigantamax": false,
+        "item": [
+          "Assault Vest",
+          "Choice Band"
+        ],
+        "ability": [
+          "Huge Power"
+        ],
+        "evs": {
+          "hp": 244,
+          "atk": 252,
+          "def": 4,
+          "spd": 4,
+          "spe": 4
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Play Rough"
+          ],
+          [
+            "Waterfall"
+          ],
+          [
+            "Aqua Jet"
+          ],
+          [
+            "Knock Off",
+            "Return",
+            "Superpower"
+          ]
+        ]
+      }
+    ]
+  },
+  "talonflame": {
+    "usage": 5,
+    "sets": [
+      {
+        "species": "Talonflame",
+        "gigantamax": false,
+        "item": [
+          "Choice Band"
+        ],
+        "ability": [
+          "Gale Wings"
+        ],
+        "evs": {
+          "hp": 4,
+          "atk": 244,
+          "def": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Brave Bird"
+          ],
+          [
+            "Flare Blitz"
+          ],
+          [
+            "U-turn"
+          ],
+          [
+            "Sleep Talk",
+            "Giga Impact"
+          ]
+        ]
+      },
+      {
+        "species": "Talonflame",
+        "gigantamax": false,
+        "item": [
+          "Choice Band"
+        ],
+        "ability": [
+          "Gale Wings"
+        ],
+        "evs": {
+          "hp": 4,
+          "atk": 244,
+          "def": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Brave Bird"
+          ],
+          [
+            "Flare Blitz"
+          ],
+          [
+            "U-turn"
+          ],
+          [
+            "Sleep Talk",
+            "Giga Impact"
+          ]
+        ]
+      },
+      {
+        "species": "Talonflame",
+        "gigantamax": false,
+        "item": [
+          "Life Orb",
+          "Sky Plate"
+        ],
+        "ability": [
+          "Gale Wings"
+        ],
+        "evs": {
+          "hp": 4,
+          "atk": 244,
+          "def": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Tailwind"
+          ],
+          [
+            "Protect",
+            "Will-o-wisp",
+            "Quick Guard",
+            "Taunt"
+          ],
+          [
+            "Brave Bird"
+          ],
+          [
+            "Flare Blitz"
+          ]
+        ]
+      },
+      {
+        "species": "Talonflame",
+        "gigantamax": false,
+        "item": [
+          "Life Orb"
+        ],
+        "ability": [
+          "Gale Wings"
+        ],
+        "evs": {
+          "atk": 244,
+          "spa": 12,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Naughty",
+        "moves": [
+          [
+            "Protect",
+            "Tailwind"
+          ],
+          [
+            "Overheat"
+          ],
+          [
+            "Brave Bird"
+          ],
+          [
+            "Flare Blitz"
+          ]
+        ]
+      }
+    ]
+  },
+  "volcarona": {
+    "usage": 7,
+    "sets": [
+      {
+        "species": "Volcarona",
+        "gigantamax": false,
+        "item": [
+          "Lum Berry",
+          "Rocky Helmet"
+        ],
+        "ability": [
+          "Flame Body"
+        ],
+        "evs": {
+          "hp": 4,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Timid",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Quiver Dance"
+          ],
+          [
+            "Heat Wave",
+            "Flamethrower",
+            "Fiery Dance"
+          ],
+          [
+            "Giga Drain",
+            "Bug Buzz",
+            "Hidden Power Ground"
+          ]
+        ]
+      },
+      {
+        "species": "Volcarona",
+        "gigantamax": false,
+        "item": [
+          "Lum Berry",
+          "Rocky Helmet"
+        ],
+        "ability": [
+          "Flame Body"
+        ],
+        "evs": {
+          "hp": 4,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Quiver Dance"
+          ],
+          [
+            "Heat Wave",
+            "Flamethrower",
+            "Fiery Dance"
+          ],
+          [
+            "Giga Drain",
+            "Bug Buzz",
+            "Hidden Power Ground"
+          ]
+        ]
+      },
+      {
+        "species": "Volcarona",
+        "gigantamax": false,
+        "item": [
+          "Lum Berry",
+          "Sitrus Berry",
+          "Rocky Helmet"
+        ],
+        "ability": [
+          "Flame Body"
+        ],
+        "evs": {
+          "hp": 172,
+          "spa": 144,
+          "spe": 192
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Quiver Dance"
+          ],
+          [
+            "Heat Wave",
+            "Flamethrower",
+            "Fiery Dance"
+          ],
+          [
+            "Giga Drain",
+            "Bug Buzz",
+            "Hidden Power Ground"
+          ]
+        ]
+      },
+      {
+        "species": "Volcarona",
+        "gigantamax": false,
+        "item": [
+          "Lum Berry",
+          "Sitrus Berry",
+          "Rocky Helmet"
+        ],
+        "ability": [
+          "Flame Body"
+        ],
+        "evs": {
+          "hp": 228,
+          "def": 204,
+          "spa": 36,
+          "spe": 36
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Rage Powder"
+          ],
+          [
+            "Heat Wave",
+            "Flamethrower",
+            "Overheat",
+            "Fiery Dance"
+          ],
+          [
+            "Giga Drain",
+            "Bug Buzz",
+            "Tailwind"
+          ]
+        ]
+      }
+    ]
+  },
+  "suicune": {
+    "usage": 4,
+    "sets": [
+      {
+        "species": "Suicune",
+        "gigantamax": false,
+        "item": [
+          "Sitrus Berry",
+          "Leftovers",
+          "Rocky Helmet"
+        ],
+        "ability": [
+          "Pressure"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 4,
+          "spa": 76,
+          "spd": 36,
+          "spe": 140
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Timid",
+        "moves": [
+          [
+            "Protect",
+            "Snarl"
+          ],
+          [
+            "Scald"
+          ],
+          [
+            "Ice Beam",
+            "Icy Wind"
+          ],
+          [
+            "Tailwind"
+          ]
+        ]
+      },
+      {
+        "species": "Suicune",
+        "gigantamax": false,
+        "item": [
+          "Sitrus Berry",
+          "Leftovers",
+          "Rocky Helmet"
+        ],
+        "ability": [
+          "Pressure"
+        ],
+        "evs": {
+          "hp": 212,
+          "def": 4,
+          "spa": 252,
+          "spd": 4,
+          "spe": 36
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Protect",
+            "Snarl"
+          ],
+          [
+            "Scald"
+          ],
+          [
+            "Ice Beam",
+            "Icy Wind"
+          ],
+          [
+            "Tailwind"
+          ]
+        ]
+      },
+      {
+        "species": "Suicune",
+        "gigantamax": false,
+        "item": [
+          "Sitrus Berry",
+          "Leftovers",
+          "Rocky Helmet"
+        ],
+        "ability": [
+          "Pressure"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 100,
+          "spa": 100,
+          "spd": 52,
+          "spe": 4
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Bold",
+        "moves": [
+          [
+            "Protect",
+            "Snarl"
+          ],
+          [
+            "Scald"
+          ],
+          [
+            "Ice Beam",
+            "Icy Wind"
+          ],
+          [
+            "Tailwind"
+          ]
+        ]
+      },
+      {
+        "species": "Suicune",
+        "gigantamax": false,
+        "item": [
+          "Chesto Berry"
+        ],
+        "ability": [
+          "Pressure"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 156,
+          "spa": 76,
+          "spd": 4,
+          "spe": 20
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Bold",
+        "moves": [
+          [
+            "Scald"
+          ],
+          [
+            "Ice Beam",
+            "Icy Wind"
+          ],
+          [
+            "Calm Mind"
+          ],
+          [
+            "Rest"
+          ]
+        ]
+      }
+    ]
+  },
+  "rotomheat": {
+    "usage": 6,
+    "sets": [
+      {
+        "species": "Rotom-Heat",
+        "gigantamax": false,
+        "item": [
+          "Sitrus Berry",
+          "Safety Goggles"
+        ],
+        "ability": [
+          "Levitate"
+        ],
+        "evs": {
+          "hp": 244,
+          "def": 4,
+          "spa": 92,
+          "spd": 4,
+          "spe": 164
+        },
+        "ivs": {},
+        "nature": "Modest",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Overheat"
+          ],
+          [
+            "Thunderbolt"
+          ],
+          [
+            "Will-o-wisp",
+            "Thunder Wave",
+            "Light Screen"
+          ]
+        ]
+      },
+      {
+        "species": "Rotom-Heat",
+        "gigantamax": false,
+        "item": [
+          "Sitrus Berry",
+          "Safety Goggles"
+        ],
+        "ability": [
+          "Levitate"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 4,
+          "spa": 108,
+          "spd": 4,
+          "spe": 140
+        },
+        "ivs": {},
+        "nature": "Modest",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Overheat"
+          ],
+          [
+            "Thunderbolt"
+          ],
+          [
+            "Will-o-wisp",
+            "Thunder Wave",
+            "Light Screen"
+          ]
+        ]
+      },
+      {
+        "species": "Rotom-Heat",
+        "gigantamax": false,
+        "item": [
+          "Sitrus Berry",
+          "Safety Goggles"
+        ],
+        "ability": [
+          "Levitate"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 92,
+          "spd": 20,
+          "spe": 140
+        },
+        "ivs": {},
+        "nature": "Bold",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Overheat"
+          ],
+          [
+            "Thunderbolt"
+          ],
+          [
+            "Will-o-wisp",
+            "Thunder Wave",
+            "Light Screen"
+          ]
+        ]
+      },
+      {
+        "species": "Rotom-Heat",
+        "gigantamax": false,
+        "item": [
+          "Choice Specs",
+          "Choice Scarf"
+        ],
+        "ability": [
+          "Levitate"
+        ],
+        "evs": {
+          "hp": 4,
+          "def": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Timid",
+        "moves": [
+          [
+            "Volt Switch"
+          ],
+          [
+            "Overheat"
+          ],
+          [
+            "Thunderbolt",
+            "Hidden Power Ice"
+          ],
+          [
+            "Trick"
+          ]
+        ]
+      }
+    ]
+  },
+  "terrakion": {
+    "usage": 5,
+    "sets": [
+      {
+        "species": "Terrakion",
+        "gigantamax": false,
+        "item": [
+          "Lum Berry",
+          "Focus Sash"
+        ],
+        "ability": [
+          "Justified"
+        ],
+        "evs": {
+          "hp": 4,
+          "atk": 244,
+          "def": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Jolly",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Quick Guard",
+            "Taunt",
+            "Poison Jab",
+            "Swords Dance",
+            "Double Kick",
+            "Substitute"
+          ],
+          [
+            "Close Combat"
+          ],
+          [
+            "Rock Slide"
+          ]
+        ]
+      },
+      {
+        "species": "Terrakion",
+        "gigantamax": false,
+        "item": [
+          "Life Orb"
+        ],
+        "ability": [
+          "Justified"
+        ],
+        "evs": {
+          "hp": 36,
+          "atk": 212,
+          "def": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Jolly",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Quick Guard",
+            "Taunt",
+            "Poison Jab",
+            "Swords Dance",
+            "Double Kick"
+          ],
+          [
+            "Close Combat"
+          ],
+          [
+            "Rock Slide"
+          ]
+        ]
+      },
+      {
+        "species": "Terrakion",
+        "gigantamax": false,
+        "item": [
+          "Choice Scarf"
+        ],
+        "ability": [
+          "Justified"
+        ],
+        "evs": {
+          "hp": 4,
+          "atk": 244,
+          "def": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Rock Slide"
+          ],
+          [
+            "Close Combat"
+          ],
+          [
+            "Stone Edge",
+            "Double Kick"
+          ],
+          [
+            "Earthquake",
+            "Poison Jab",
+            "Taunt"
+          ]
+        ]
+      },
+      {
+        "species": "Terrakion",
+        "gigantamax": false,
+        "item": [
+          "Choice Band"
+        ],
+        "ability": [
+          "Justified"
+        ],
+        "evs": {
+          "hp": 4,
+          "atk": 244,
+          "def": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Jolly",
+        "moves": [
+          [
+            "Rock Slide"
+          ],
+          [
+            "Close Combat"
+          ],
+          [
+            "Stone Edge",
+            "Double Kick"
+          ],
+          [
+            "Earthquake",
+            "Poison Jab",
+            "Taunt"
+          ]
+        ]
+      }
+    ]
+  },
+  "ferrothorn": {
+    "usage": 5,
+    "sets": [
+      {
+        "species": "Ferrothorn",
+        "gigantamax": false,
+        "item": [
+          "Rocky Helmet",
+          "Leftovers",
+          "Lum Berry"
+        ],
+        "ability": [
+          "Iron Barbs"
+        ],
+        "evs": {
+          "hp": 252,
+          "atk": 204,
+          "spd": 52
+        },
+        "ivs": {
+          "spe": 0
+        },
+        "nature": "Brave",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Power Whip"
+          ],
+          [
+            "Gyro Ball"
+          ],
+          [
+            "Leech Seed",
+            "Knock Off"
+          ]
+        ]
+      },
+      {
+        "species": "Ferrothorn",
+        "gigantamax": false,
+        "item": [
+          "Rocky Helmet",
+          "Leftovers",
+          "Lum Berry"
+        ],
+        "ability": [
+          "Iron Barbs"
+        ],
+        "evs": {
+          "hp": 252,
+          "atk": 4,
+          "def": 252
+        },
+        "ivs": {
+          "spe": 0
+        },
+        "nature": "Relaxed",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Power Whip"
+          ],
+          [
+            "Gyro Ball"
+          ],
+          [
+            "Leech Seed",
+            "Knock Off"
+          ]
+        ]
+      },
+      {
+        "species": "Ferrothorn",
+        "gigantamax": false,
+        "item": [
+          "Rocky Helmet",
+          "Leftovers",
+          "Lum Berry"
+        ],
+        "ability": [
+          "Iron Barbs"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 60,
+          "spd": 196
+        },
+        "ivs": {
+          "spe": 0
+        },
+        "nature": "Relaxed",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Power Whip"
+          ],
+          [
+            "Gyro Ball"
+          ],
+          [
+            "Leech Seed",
+            "Knock Off"
+          ]
+        ]
+      },
+      {
+        "species": "Ferrothorn",
+        "gigantamax": false,
+        "item": [
+          "Rocky Helmet",
+          "Leftovers",
+          "Lum Berry"
+        ],
+        "ability": [
+          "Iron Barbs"
+        ],
+        "evs": {
+          "hp": 252,
+          "atk": 204,
+          "spd": 52
+        },
+        "ivs": {
+          "spe": 0
+        },
+        "nature": "Brave",
+        "moves": [
+          [
+            "Power Whip"
+          ],
+          [
+            "Gyro Ball"
+          ],
+          [
+            "Knock Off"
+          ],
+          [
+            "Explosion"
+          ]
+        ]
+      }
+    ]
+  },
+  "breloom": {
+    "usage": 6,
+    "sets": [
+      {
+        "species": "Breloom",
+        "gigantamax": false,
+        "item": [
+          "Focus Sash"
+        ],
+        "ability": [
+          "Technician"
+        ],
+        "evs": {
+          "hp": 4,
+          "atk": 244,
+          "def": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Jolly",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Spore"
+          ],
+          [
+            "Bullet Seed"
+          ],
+          [
+            "Mach Punch"
+          ]
+        ]
+      },
+      {
+        "species": "Breloom",
+        "gigantamax": false,
+        "item": [
+          "Choice Scarf"
+        ],
+        "ability": [
+          "Technician"
+        ],
+        "evs": {
+          "hp": 4,
+          "atk": 244,
+          "def": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Jolly",
+        "moves": [
+          [
+            "Spore"
+          ],
+          [
+            "Bullet Seed"
+          ],
+          [
+            "Mach Punch"
+          ],
+          [
+            "Superpower",
+            "Rock Tomb"
+          ]
+        ]
+      }
+    ]
+  },
+  "gastrodon": {
+    "usage": 4,
+    "sets": [
+      {
+        "species": "Gastrodon",
+        "gigantamax": false,
+        "item": [
+          "Expert Belt",
+          "Sitrus Berry",
+          "Rocky Helmet",
+          "Leftovers",
+          "Rindo Berry"
+        ],
+        "ability": [
+          "Storm Drain"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 116,
+          "spd": 140
+        },
+        "ivs": {
+          "atk": 0,
+          "spe": 0
+        },
+        "nature": "Relaxed",
+        "moves": [
+          [
+            "Protect",
+            "Recover"
+          ],
+          [
+            "Earth Power"
+          ],
+          [
+            "Ice Beam",
+            "Icy Wind"
+          ],
+          [
+            "Scald",
+            "Muddy Water"
+          ]
+        ]
+      },
+      {
+        "species": "Gastrodon",
+        "gigantamax": false,
+        "item": [
+          "Expert Belt",
+          "Sitrus Berry",
+          "Rocky Helmet",
+          "Leftovers",
+          "Rindo Berry"
+        ],
+        "ability": [
+          "Storm Drain"
+        ],
+        "evs": {
+          "hp": 100,
+          "def": 188,
+          "spa": 156,
+          "spd": 60,
+          "spe": 4
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Modest",
+        "moves": [
+          [
+            "Protect",
+            "Recover"
+          ],
+          [
+            "Earth Power"
+          ],
+          [
+            "Ice Beam",
+            "Icy Wind"
+          ],
+          [
+            "Scald",
+            "Muddy Water"
+          ]
+        ]
+      }
+    ]
+  },
+  "metagross": {
+    "usage": 4,
+    "sets": [
+      {
+        "species": "Metagross",
+        "gigantamax": false,
+        "item": [
+          "Metagrossite"
+        ],
+        "ability": [
+          "Clear Body"
+        ],
+        "evs": {
+          "hp": 4,
+          "atk": 244,
+          "def": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Jolly",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Iron Head",
+            "Meteor Mash"
+          ],
+          [
+            "Zen Headbutt"
+          ],
+          [
+            "Bullet Punch",
+            "Ice Punch",
+            "Earthquake",
+            "Substitute"
+          ]
+        ]
+      },
+      {
+        "species": "Metagross",
+        "gigantamax": false,
+        "item": [
+          "Metagrossite"
+        ],
+        "ability": [
+          "Clear Body"
+        ],
+        "evs": {
+          "hp": 44,
+          "atk": 164,
+          "def": 44,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Jolly",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Iron Head",
+            "Meteor Mash"
+          ],
+          [
+            "Zen Headbutt"
+          ],
+          [
+            "Bullet Punch",
+            "Ice Punch",
+            "Earthquake",
+            "Substitute"
+          ]
+        ]
+      },
+      {
+        "species": "Metagross",
+        "gigantamax": false,
+        "item": [
+          "Metagrossite"
+        ],
+        "ability": [
+          "Clear Body"
+        ],
+        "evs": {
+          "hp": 68,
+          "atk": 252,
+          "def": 52,
+          "spd": 100,
+          "spe": 36
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Iron Head",
+            "Meteor Mash"
+          ],
+          [
+            "Zen Headbutt"
+          ],
+          [
+            "Bullet Punch",
+            "Ice Punch",
+            "Earthquake",
+            "Substitute"
+          ]
+        ]
+      },
+      {
+        "species": "Metagross",
+        "gigantamax": false,
+        "item": [
+          "Assault Vest"
+        ],
+        "ability": [
+          "Clear Body"
+        ],
+        "evs": {
+          "hp": 92,
+          "atk": 252,
+          "def": 4,
+          "spd": 4,
+          "spe": 156
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Iron Head",
+            "Meteor Mash"
+          ],
+          [
+            "Zen Headbutt"
+          ],
+          [
+            "Bullet Punch",
+            "Ice Punch"
+          ],
+          [
+            "Earthquake"
+          ]
+        ]
+      }
+    ]
+  },
+  "mawile": {
+    "usage": 5,
+    "sets": [
+      {
+        "species": "Mawile",
+        "gigantamax": false,
+        "item": [
+          "Mawilite"
+        ],
+        "ability": [
+          "Intimidate"
+        ],
+        "evs": {
+          "hp": 252,
+          "atk": 252,
+          "spd": 4
+        },
+        "ivs": {
+          "spe": 0
+        },
+        "nature": "Brave",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Sucker Punch"
+          ],
+          [
+            "Play Rough"
+          ],
+          [
+            "Iron Head"
+          ]
+        ]
+      },
+      {
+        "species": "Mawile",
+        "gigantamax": false,
+        "item": [
+          "Mawilite"
+        ],
+        "ability": [
+          "Intimidate"
+        ],
+        "evs": {
+          "hp": 252,
+          "atk": 156,
+          "def": 44,
+          "spd": 52
+        },
+        "ivs": {
+          "spe": 0
+        },
+        "nature": "Brave",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Sucker Punch"
+          ],
+          [
+            "Play Rough"
+          ],
+          [
+            "Iron Head"
+          ]
+        ]
+      },
+      {
+        "species": "Mawile",
+        "gigantamax": false,
+        "item": [
+          "Mawilite"
+        ],
+        "ability": [
+          "Intimidate"
+        ],
+        "evs": {
+          "hp": 252,
+          "atk": 252,
+          "spd": 4
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Sucker Punch"
+          ],
+          [
+            "Play Rough"
+          ],
+          [
+            "Iron Head"
+          ]
+        ]
+      },
+      {
+        "species": "Mawile",
+        "gigantamax": false,
+        "item": [
+          "Mawilite"
+        ],
+        "ability": [
+          "Intimidate"
+        ],
+        "evs": {
+          "hp": 252,
+          "atk": 156,
+          "def": 44,
+          "spd": 52,
+          "spe": 4
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Sucker Punch"
+          ],
+          [
+            "Play Rough"
+          ],
+          [
+            "Iron Head"
+          ]
+        ]
+      }
+    ]
+  },
+  "arcanine": {
+    "usage": 5,
+    "sets": [
+      {
+        "species": "Arcanine",
+        "gigantamax": false,
+        "item": [
+          "Leftovers",
+          "Safety Goggles",
+          "Sitrus Berry",
+          "Rocky Helmet"
+        ],
+        "ability": [
+          "Intimidate"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 148,
+          "spa": 36,
+          "spd": 12,
+          "spe": 60
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Bold",
+        "moves": [
+          [
+            "Protect",
+            "Morning Sun"
+          ],
+          [
+            "Will-o-wisp"
+          ],
+          [
+            "Snarl"
+          ],
+          [
+            "Flamethrower",
+            "Overheat"
+          ]
+        ]
+      },
+      {
+        "species": "Arcanine",
+        "gigantamax": false,
+        "item": [
+          "Leftovers",
+          "Safety Goggles",
+          "Sitrus Berry",
+          "Rocky Helmet"
+        ],
+        "ability": [
+          "Intimidate"
+        ],
+        "evs": {
+          "hp": 252,
+          "def": 84,
+          "spa": 4,
+          "spd": 100,
+          "spe": 68
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "nature": "Calm",
+        "moves": [
+          [
+            "Protect",
+            "Morning Sun"
+          ],
+          [
+            "Will-o-wisp"
+          ],
+          [
+            "Snarl"
+          ],
+          [
+            "Flamethrower",
+            "Overheat"
+          ]
+        ]
+      },
+      {
+        "species": "Arcanine",
+        "gigantamax": false,
+        "item": [
+          "Life Orb"
+        ],
+        "ability": [
+          "Intimidate"
+        ],
+        "evs": {
+          "hp": 44,
+          "atk": 204,
+          "def": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {},
+        "nature": "Adamant",
+        "moves": [
+          [
+            "Protect"
+          ],
+          [
+            "Flare Blitz"
+          ],
+          [
+            "Close Combat"
+          ],
+          [
+            "Wild Charge",
+            "Extreme Speed"
+          ]
+        ]
+      }
+    ]
+  }
+}
