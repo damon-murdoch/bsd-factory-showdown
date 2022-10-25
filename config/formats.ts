@@ -3352,12 +3352,12 @@ export const Formats: FormatList = [
 		banlist: ['Soul Dew'],
 	},
 	{
-		name: "[Gen 6] VGC Factory",
-		desc: `Randomized teams of Pok&eacute;mon for a generated Smogon tier with sets that are competitively viable.`,
+		name: "[Gen 6] BSD Factory",
+		desc: `Randomized teams of Pok&eacute;mon for Battle Spot Doubles with sets that are competitively viable.`,
 
 		mod: 'gen6',
 		gameType: 'doubles',
-		team: 'randomVGCFactory',
+		team: 'randomBSDFactory',
 		searchShow: false,
 		ruleset: ['Flat Rules'],
 	},

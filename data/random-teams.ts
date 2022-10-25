@@ -2879,7 +2879,7 @@ export class RandomTeams {
 	randomBSSFactorySets: AnyObject = require('./bss-factory-sets.json');
 
 	// VGC Battle Factory Sets
-	randomVGCFactorySets: AnyObject = require('./vgc-factory-sets.json');
+	randomBSDFactorySets: AnyObject = require('./bsd-factory-sets.json');
 
 	randomMetaFactorySet(
 		species: Species, teamData: RandomTeamsTypes.FactoryTeamDetails, metaSets: AnyObject
@@ -3114,18 +3114,12 @@ export class RandomTeams {
 		);
 	}
 
-	randomVGCFactoryTeam(
+	randomBSDFactoryTeam(
 		side: PlayerOptions
 	): RandomTeamsTypes.RandomFactorySet[] {
-		// Get all of the formats for the gen
-		const formats = this.randomVGCFactorySets;
-
-		console.log(formats);
-
-		// Return a random vgc factory team
+		// Return a random bsd factory team
 		return this.randomMetaFactoryTeam(
-			// side, this.sampleIfArray(formats)
-			side, formats["vgc2014"]
+			side, this.randomBSDFactorySets
 		);
 	}
 }

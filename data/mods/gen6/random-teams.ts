@@ -1342,21 +1342,14 @@ export class RandomGen6Teams extends RandomGen7Teams {
 		return pokemon;
 	}
 
-	randomVGCFactorySets: AnyObject = require('./vgc-factory-sets.json');
+	randomBSDFactorySets: AnyObject = require('./bsd-factory-sets.json');
 
-	randomVGCFactoryTeam(side: PlayerOptions): RandomTeamsTypes.RandomFactorySet[] {
-		const formats = this.randomVGCFactorySets;
-
-		if (!this.factoryTier) {
-			this.factoryTier = this.sample(Object.keys(formats));
-
-			console.log(`Format selected: ${this.factoryTier}`);
-		} else {
-			console.log(`Using pre-selected format: ${this.factoryTier}`);
-		}
-
+	randomBSDFactoryTeam(
+		side: PlayerOptions
+	): RandomTeamsTypes.RandomFactorySet[] {
+		// Return a random bsd factory team
 		return this.randomMetaFactoryTeam(
-			side, formats[this.factoryTier]
+			side, this.randomBSDFactorySets
 		);
 	}
 }

@@ -1941,26 +1941,23 @@ export class RandomGen7Teams extends RandomTeams {
 	randomBSSFactorySets: AnyObject = require('./bss-factory-sets.json');
 
 	// VGC Battle Factory Sets
-	randomVGCFactorySets: AnyObject = require('./vgc-factory-sets.json');
+	randomBSDFactorySets: AnyObject = require('./bsd-factory-sets.json');
 
 	randomBSSFactoryTeam(
 		side: PlayerOptions
 	): RandomTeamsTypes.RandomFactorySet[] {
 		// Return a random bss factory team
 		return this.randomMetaFactoryTeam(
-			side, this.randomBSSFactorySets
+			side, this.randomBSDFactorySets
 		);
 	}
 
-	randomVGCFactoryTeam(
+	randomBSDFactoryTeam(
 		side: PlayerOptions
 	): RandomTeamsTypes.RandomFactorySet[] {
-		// Get all of the formats for the gen
-		const formats = this.randomVGCFactorySets;
-
-		// Return a random vgc factory team
+		// Return a random bsd factory team
 		return this.randomMetaFactoryTeam(
-			side, this.sampleIfArray(formats)
+			side, this.randomBSDFactorySets
 		);
 	}
 }
