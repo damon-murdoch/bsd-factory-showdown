@@ -2956,6 +2956,7 @@ export class RandomTeams {
 	}
 
 	randomMetaFactoryTeam(side: PlayerOptions, metaSets: AnyObject, depth = 0): RandomTeamsTypes.RandomFactorySet[] {
+
 		this.enforceNoDirectCustomBanlistChanges();
 
 		const forceResult = (depth >= 4);
@@ -3024,7 +3025,7 @@ export class RandomTeams {
 			}
 			if (skip) continue;
 
-			const set = this.randomMetaFactorySet(species, teamData, metaSets);
+			const set: any = this.randomMetaFactorySet(species, teamData, metaSets);
 			if (!set) continue;
 
 			// Limit 1 of any type combination

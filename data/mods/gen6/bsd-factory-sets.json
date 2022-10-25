@@ -1574,7 +1574,9 @@
               "item": [
                   "Tyranitarite"
               ],
-              "ability": [],
+              "ability": [
+                  "Sand Stream"
+              ],
               "evs": {
                   "hp": 4,
                   "atk": 244,
@@ -6224,7 +6226,9 @@
                   "Sitrus Berry",
                   "Leftovers"
               ],
-              "ability": [],
+              "ability": [
+                  "Intimidate"
+              ],
               "evs": {
                   "hp": 252,
                   "atk": 4,
@@ -7097,7 +7101,9 @@
               "item": [
                   "Latiasite"
               ],
-              "ability": [],
+              "ability": [
+                  "Levitate"
+              ],
               "evs": {
                   "hp": 252,
                   "def": 12,
@@ -7132,7 +7138,9 @@
               "item": [
                   "Latiasite"
               ],
-              "ability": [],
+              "ability": [
+                  "Levitate"
+              ],
               "evs": {
                   "hp": 252,
                   "def": 156,
