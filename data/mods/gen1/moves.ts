@@ -835,6 +835,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 				uncappedDamage = this.runEvent('SubDamage', target, source, move, uncappedDamage);
 				if (!uncappedDamage) return uncappedDamage;
 				source.lastDamage = uncappedDamage;
+				this.lastDamage = uncappedDamage;
 				target.volatiles['substitute'].hp -= uncappedDamage > target.volatiles['substitute'].hp ?
 					target.volatiles['substitute'].hp : uncappedDamage;
 				if (target.volatiles['substitute'].hp <= 0) {
@@ -882,16 +883,6 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 		secondary: {
 			chance: 10,
 			status: 'par',
-		},
-	},
-	thunderwave: {
-		inherit: true,
-		accuracy: 100,
-		onTryHit(target) {
-			if (target.hasType('Ground')) {
-				this.add('-immune', target);
-				return null;
-			}
 		},
 	},
 	triattack: {

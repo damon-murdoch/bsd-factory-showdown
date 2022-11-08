@@ -691,7 +691,7 @@ describe('Team Validator', function () {
 		assert(illegal);
 	});
 
-	it.skip('should not allow events to use moves only obtainable in a previous generation', function () {
+	it('should not allow events to use moves only obtainable in a previous generation', function () {
 		const team = [
 			{species: 'zeraora', ability: 'voltabsorb', shiny: true, moves: ['knockoff'], evs: {hp: 1}},
 		];
@@ -714,6 +714,16 @@ describe('Team Validator', function () {
 		];
 		illegal = TeamValidator.get('gen7anythinggoes').validateTeam(team);
 		assert(illegal);
+	});
+
+	it(`should accept event Pokemon with oldgen tutor moves and HAs in formats with Ability Patch`, function () {
+		const team = [
+			{species: 'heatran', ability: 'flamebody', moves: ['eruption'], evs: {hp: 1}},
+			{species: 'regirock', ability: 'sturdy', moves: ['counter'], evs: {hp: 1}},
+			{species: 'zapdos', ability: 'static', moves: ['aircutter'], evs: {hp: 1}},
+		];
+		const illegal = TeamValidator.get('gen8anythinggoes').validateTeam(team);
+		assert.equal(illegal, null);
 	});
 
 	it('should not allow Gen 1 JP events', function () {
@@ -801,6 +811,26 @@ describe('Team Validator', function () {
 			{species: 'mamoswine', level: 1, ability: 'oblivious', moves: ['earthquake'], evs: {hp: 1}},
 		];
 		const illegal = TeamValidator.get('gen8anythinggoes').validateTeam(team);
+		assert(illegal);
+	});
+
+	it('should correctly enforce per-game evolution restrictions', function () {
+		let team = [
+			{species: 'raichualola', ability: 'surgesurfer', moves: ['doublekick'], evs: {hp: 1}},
+		];
+		let illegal = TeamValidator.get('gen8anythinggoes').validateTeam(team);
+		assert(illegal);
+
+		team = [
+			{species: 'raichualola', ability: 'surgesurfer', moves: ['sing'], evs: {hp: 1}},
+		];
+		illegal = TeamValidator.get('gen8anythinggoes@@@minsourcegen=8').validateTeam(team);
+		assert(illegal);
+
+		team = [
+			{species: 'exeggutoralola', ability: 'frisk', moves: ['psybeam'], evs: {hp: 1}},
+		];
+		illegal = TeamValidator.get('gen8anythinggoes').validateTeam(team);
 		assert(illegal);
 	});
 
