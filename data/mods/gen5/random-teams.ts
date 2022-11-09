@@ -901,6 +901,17 @@ export class RandomGen5Teams extends RandomGen6Teams {
 
 		return pokemon;
 	}
+
+	randomBSDFactorySets: AnyObject = require('./bsd-factory-sets.json');
+
+	randomBSDFactoryTeam(
+		side: PlayerOptions
+	): RandomTeamsTypes.RandomFactorySet[] {
+		// Return a random bsd factory team
+		return this.randomMetaFactoryTeam(
+			side, this.randomBSDFactorySets
+		);
+	}
 }
 
 export default RandomGen5Teams;

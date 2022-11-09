@@ -3571,6 +3571,16 @@ export const Formats: FormatList = [
 		banlist: ['DUber', 'Soul Dew', 'Dark Void', 'Gravity'],
 	},
 	{
+		name: "[Gen 5] BSD Factory",
+		desc: `Randomized teams of Pok&eacute;mon for Battle Spot Doubles with sets that are competitively viable.`,
+
+		mod: 'gen5',
+		gameType: 'doubles',
+		team: 'randomBSDFactory',
+		searchShow: false,
+		ruleset: ['Flat Rules'],
+	},
+	{
 		name: "[Gen 5] VGC 2013",
 
 		mod: 'gen5',
